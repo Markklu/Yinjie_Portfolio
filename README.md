@@ -8,5 +8,5 @@ Projects done by Yinjie Lu
 * Successfully track the true ground path and tested robustness for sensor malfunction cases.
 
 ![Figure of Ground Truth Trajectory](https://github.com/Markklu/Yinjie_Portfolio/blob/main/images/Ground%20Truth%20Trajectory.png)
-<img src="https://github.com/favicon.ico" width="48">
+<img src="https://github.com/Markklu/Yinjie_Portfolio/blob/main/images/Ground%20Truth%20Trajectory.png" width="150" height="150">
 
