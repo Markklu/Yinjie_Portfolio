@@ -7,6 +7,6 @@ Projects done by Yinjie Lu
 * Implemented sensor fusion algorithm including: GNSS, IMU, LIDAR.
 * Successfully track the true ground path and tested robustness for sensor malfunction cases.
 
-![](https://github.com/Markklu/Yinjie_Portfolio/blob/main/images/Ground%20Truth%20Trajectory.png)
-*Figure of Ground Truth Trajectory*
+![Figure of Ground Truth Trajectory](https://github.com/Markklu/Yinjie_Portfolio/blob/main/images/Ground%20Truth%20Trajectory.png =250x250)
+
 
